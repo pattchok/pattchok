@@ -1,16 +1,17 @@
-## Hi there 👋
+hi, i'm patt! 
 
-<!--
-**pattchok/pattchok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ whoami
+get to know me at pattchok.com
 
-Here are some ideas to get you started:
+$ git log --oneline -1
+☕ powered by claude code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ pwd
+~/learning-to-code
+
+$ cat prev.txt
+built typhoon, open-source thai AI
+
+[![🌐 Portfolio](https://img.shields.io/badge/🌐_pattchok.com-000?style=for-the-badge)](https://pattchok.com)
+[![💼 LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/pattchok)
+
