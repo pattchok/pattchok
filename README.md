@@ -2,7 +2,7 @@
 🌸 [pattchok.com](https://pattchok.com)
 ```
 $ pwd
-~/learning-to-code
+~/building-stuff
 
 $ git log --oneline -1
 a3f7b2d feat: push with claude code
