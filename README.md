@@ -1,6 +1,7 @@
 ### hi, i'm patt! 
 🌸 [pattchok.com](https://pattchok.com)
-```
+
+``` bash
 $ pwd
 ~/building-stuff
 
