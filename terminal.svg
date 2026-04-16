@@ -1,0 +1,11 @@
+<svg width="450" height="150" xmlns="http://www.w3.org/2000/svg">
+<rect width="450" height="150" rx="6" fill="#2d2d2d"/>
+<text font-family="monospace" font-size="16" y="32" x="20">
+<tspan fill="#6CA4E0">$</tspan><tspan fill="#E0C76A"> pwd</tspan>
+</text>
+<text font-family="monospace" font-size="16" fill="#999999" y="56" x="20">~/building-stuff</text>
+<text font-family="monospace" font-size="16" y="92" x="20">
+<tspan fill="#6CA4E0">$</tspan><tspan fill="#cccccc"> git </tspan><tspan fill="#E0C76A">log</tspan><tspan fill="#cccccc"> --oneline -1</tspan>
+</text>
+<text font-family="monospace" font-size="16" fill="#999999" y="116" x="20">a3f7b2d feat: push with claude code</text>
+</svg>
